@@ -10,7 +10,7 @@ This tool was made with the approval of the cosmon team.
 
 :warning: The data is reset every league, so make sure to save it before the league ends.
 
-If you like my work, you can donate 
+If you like my work, you can donate :beers: :+1:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/jcmehr)
 
