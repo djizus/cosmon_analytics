@@ -10,9 +10,9 @@ This tool was made with the approval of the cosmon team.
 
 :warning: The data is reset every league, so make sure to save it before the league ends.
 
-If you like my work, you can donate @ ki1txqg3z8f0tj02z88afw2f9q8qfl54gpl238vt6
+If you like my work, you can donate 
 
-Or with paypal : [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/jcmehr)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/jcmehr)
 
 ## Features
 - [x] Keplr integration
