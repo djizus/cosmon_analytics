@@ -10,9 +10,9 @@ This tool was made with the approval of the cosmon team.
 
 :warning: The data is reset every league, so make sure to save it before the league ends.
 
-If you like my work, you can donate :
-@ ki1txqg3z8f0tj02z88afw2f9q8qfl54gpl238vt6
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/jcmehr)
+If you like my work, you can donate @ ki1txqg3z8f0tj02z88afw2f9q8qfl54gpl238vt6
+
+Or with paypal : [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/jcmehr)
 
 ## Features
 - [x] Keplr integration
@@ -28,4 +28,4 @@ Then go to [Cosmon-Analytics](https://cosmon-analytics.herokuapp.com/).
 Connect with Keplr and enjoy !
 
 ## Feature requests, Issues and Contribution
-Join the official cosmon discord room to discuss issues, features and development : [discord](http://discord.gg/CAvjMPbgBk)
+Join the official cosmon discord room to discuss issues, features and development : [Discord](http://discord.gg/CAvjMPbgBk)
