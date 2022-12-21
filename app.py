@@ -62,7 +62,7 @@ app.layout = html.Div(
                         html.Div(id = 'wallet-output', className="hidden-div"),
                         html.Div(id = 'wallet-div', children="Wallet", className="menu-title"),
                         html.Div(id="wallet"),
-                        html.Button('Get data', id='get-data', n_clicks=0, className = "buttons"),
+                        html.Button('Refresh data', id='get-data', n_clicks=0, className = "buttons"),
                     ]
                 ),
                 html.Div(
