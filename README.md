@@ -1,6 +1,6 @@
 # Cosmon Analytics
 
-This is a dashboard for the ki blockchain game Cosmon. 
+https://cosmon-analytics.herokuapp.com/ is a dashboard for the ki blockchain game Cosmon. 
 
 Every data has been taken directly from the blockchain, in order to be as accurate as possible.
 
