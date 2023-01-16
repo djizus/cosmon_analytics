@@ -32,7 +32,7 @@ body {
 
 .menu {
     height: 14%;
-    width: 60%;
+    width: 70%;
     display: flex;
     justify-content: space-evenly;
     padding-top: 24px;
@@ -67,12 +67,15 @@ body {
 }
 
 .wrapper {
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 1%;
-    padding-left: 1%;
     margin-top: 2%;
 	color: #e8e6e3;
+    margin-bottom: 2%;
+}
+
+.leaderboard {
+    margin-top: 2%;
+	color: #e8e6e3;
+    margin-bottom: 2%;
 }
 
 .footer {
@@ -94,4 +97,3 @@ body {
 #find-me-on{
   padding-right: 20px;
 }
-

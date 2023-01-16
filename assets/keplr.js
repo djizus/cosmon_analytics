@@ -1,5 +1,3 @@
-window.addEventListener("load", (event) => {keplrLoad();});
-
 window.addEventListener("keplr_keystorechange", (event) => {keplrLoad();});
 
 async function keplrLoad() {
@@ -20,6 +18,9 @@ async function keplrLoad() {
         // But, currently, Keplr extension manages only one address/public key pair.
         const accounts = await offlineSigner.getAccounts();
 		
+		if(document.getElementById("wallet").innerHTML !== null) {
+			clearInterval(refreshID);
+		}
 		document.getElementById("wallet").innerHTML = accounts[0].address ;		
 		
         document.getElementById('get-data').click();
@@ -28,3 +29,4 @@ async function keplrLoad() {
     }
 }
 
+let refreshID = setInterval(keplrLoad, 100);
