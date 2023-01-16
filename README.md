@@ -19,7 +19,8 @@ If you like my work, you can donate :beers: :+1:
 - [x] League stat tracking 
 - [x] Training stat tracking
 - [x] $XKI fees spent
-- [x] "Real time" updates
+- [x] Real time updates
+- [x] Leaderboard tracking with added data
 
 ## Use
 Play some games on [Cosmon](https://cosmon.ki/arena/).
