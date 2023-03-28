@@ -40,7 +40,7 @@ tooltip_style = {
 }
 
 # database setup
-connectionstring = #secret_sauce#
+connectionstring = #magic_sauce#
 mongoClient = pymongo.MongoClient(connectionstring)
 db = mongoClient["Cosmon"]
 leaderCol = db["leaders"]
